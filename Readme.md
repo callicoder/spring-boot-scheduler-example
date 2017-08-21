@@ -1,4 +1,4 @@
-# Spring Boot Task Scheduling with `@Scheduled` and `@EnableScheduling` annotations
+# Spring Boot Task Scheduling Example
 
 Learn how to schedule tasks with Spring Boot -
 
