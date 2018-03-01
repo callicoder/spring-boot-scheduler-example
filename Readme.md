@@ -15,7 +15,7 @@ https://www.callicoder.com/spring-boot-task-scheduling-with-scheduled-annotation
 **1. Clone the application**
 
 ```bash
-git clone git@github.com:callicoder/spring-boot-scheduler-example.git
+git clone https://github.com/callicoder/spring-boot-scheduler-example.git
 ```
 
 **2. Build and run the app using maven**
