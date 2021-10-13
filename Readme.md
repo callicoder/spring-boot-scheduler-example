@@ -6,7 +6,7 @@ https://www.callicoder.com/spring-boot-task-scheduling-with-scheduled-annotation
 
 ## Requirements
 
-1. Java - 1.8.x
+1. Java - 11
 
 2. Maven - 3.x.x
 
